@@ -64,6 +64,17 @@ WebDriver driver;
     @Test
     public void Test(){
         System.out.println("This is my own demo");
+        System.out.println("This is my own demoArch");
+        System.out.println("This is my own demoSameArch");
+        System.out.println("This is my own demoSameArch2");
+    }
+
+    @Test
+    public void Test2Arch2(){
+        System.out.println("This is my own demo");
+        System.out.println("This is my own demoArch");
+        System.out.println("This is my own demoSameArch");
+        System.out.println("This is my own demoSameArch2");
     }
 
 
