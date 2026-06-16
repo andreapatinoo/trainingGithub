@@ -61,6 +61,11 @@ WebDriver driver;
                 };
     }
 
+    @Test
+    public void Test(){
+        System.out.println("This is my own demo");
+    }
+
 
 
 
